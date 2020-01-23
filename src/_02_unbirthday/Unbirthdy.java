@@ -6,7 +6,9 @@ import javax.swing.JOptionPane;
 
 public class Unbirthdy {
   
-	public static void main(String[] args) {
+public static void main(String[] args) {
+	
+
 
 		String cat = "1/15/20";
         String hat= 
@@ -19,15 +21,13 @@ public class Unbirthdy {
 		JOptionPane.showMessageDialog(null, "Happy Unbirthday");
 		}
 		
+}
 		
 		
 		
 		
-		
-		}
-	}
-	
-	
+
+
 
 	
 	
